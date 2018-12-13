@@ -1,7 +1,7 @@
 # NumericalAnalysisAlgorithms
 
 ```matlab
->> Example
+>> Examples
 ```
 
 ```console
