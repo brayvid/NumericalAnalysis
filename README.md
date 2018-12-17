@@ -1,6 +1,6 @@
-# NumericalAnalysisAlgorithms
+# Numerical Analysis Algorithms
 
-Developed from theory presented in [Numerical Analysis 9e](https://www.amazon.com/Numerical-Analysis-Richard-L-Burden/dp/0538733519 "Numerical Analysis 9e at Amazon.com") by Burden, Faires.
+Matlab scripts and functions developed from theory presented in [Numerical Analysis 9e](https://www.amazon.com/Numerical-Analysis-Richard-L-Burden/dp/0538733519 "Numerical Analysis 9e at Amazon.com") by Burden, Faires.
 
 ```matlab
 >> Examples
