@@ -1,5 +1,5 @@
 # NumericalAnalysisAlgorithms
-
+Developed from theory presented in (Numerical Analysis by Burden, Faires, 9/10ed)[https://www.amazon.com/Numerical-Analysis-Richard-L-Burden/dp/0538733519 "Numerical Analysis at Amazon.com"]
 ```matlab
 >> Examples
 ```
